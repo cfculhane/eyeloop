@@ -1,0 +1,6 @@
+available_importers: ["cv.CVImporter", "vimba.VimbaImporter"]
+chosen_importer: "cv.CVImporter"
+eyeloop: true
+engine: false
+arguments: 0
+graphical_user_interface: 0
